@@ -10,26 +10,26 @@
   </p>
 
   <p>
-    <a href="https://github.com/DreamyModding/BepInEx-Remastered/releases">
-      <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/DreamyModding/BepInEx-Resmastered/total?logo=github&label=downloads">
+    <a href="https://github.com/DreamysHelper/BepInEx-Resmatered/releases">
+      <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/DreamysHelper/BepInEx-Resmatered/total?logo=github&amp;label=downloads">
     </a>
-    <a href="https://github.com/DreamyModding/BepInEx-Remastered/releases/latest">
-      <img alt="GitHub latest release" src="https://img.shields.io/github/v/release/DreamyModding/BepInEx-Resmastered?logo=github">
+    <a href="https://github.com/DreamysHelper/BepInEx-Resmatered/releases/latest">
+      <img alt="GitHub latest release" src="https://img.shields.io/github/v/release/DreamysHelper/BepInEx-Resmatered?logo=github">
     </a>
     <a href="https://discord.gg/dreamymodding">
-      <img alt="Join the DreamyModding Discord" src="https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white">
+      <img alt="Join the DreamyModding Discord" src="https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&amp;logoColor=white">
     </a>
-    <a href="https://github.com/DreamyModding/BepInEx-Remastered/issues">
-      <img alt="GitHub issues" src="https://img.shields.io/github/issues/DreamyModding/BepInEx-Resmastered?logo=github">
+    <a href="https://github.com/DreamysHelper/BepInEx-Resmatered/issues">
+      <img alt="GitHub issues" src="https://img.shields.io/github/issues/DreamysHelper/BepInEx-Resmatered?logo=github">
     </a>
   </p>
 
   <p>
-    <a href="https://github.com/DreamyModding/BepInEx-Resmastered/releases/latest"><strong>Download Latest Release</strong></a>
+    <a href="https://github.com/DreamysHelper/BepInEx-Resmatered/releases/latest"><strong>Download Latest Release</strong></a>
     ·
     <a href="https://discord.gg/dreamymodding"><strong>Discord</strong></a>
     ·
-    <a href="https://github.com/DreamyModding/BepInEx-Resmastered/issues"><strong>Report an Issue</strong></a>
+    <a href="https://github.com/DreamysHelper/BepInEx-Resmatered/issues"><strong>Report an Issue</strong></a>
   </p>
 </div>
 
@@ -49,8 +49,8 @@ Support depends on the specific build, game, scripting backend, and platform. Ch
 
 ## Resources
 
-- [**Latest releases**](https://github.com/DreamyModding/BepInEx-Resmastered/releases)
-- [**All releases**](https://github.com/DreamyModding/BepInEx-Resmastered/releases)
+- [**Latest releases**](https://github.com/DreamysHelper/BepInEx-Resmatered/releases)
+- [**All releases**](https://github.com/DreamysHelper/BepInEx-Resmatered/releases)
 - [**Installation guide**](https://docs.bepinex.dev/articles/user_guide/installation/index.html)
 - [**User and developer guides**](https://docs.bepinex.dev/master/)
 - [**DreamyModding Discord server**](https://discord.gg/dreamymodding)
@@ -102,8 +102,8 @@ The exact dependencies and versions vary by release. Consult the source and rele
 
 Found a bug or have an idea?
 
-- [Report an issue](https://github.com/DreamyModding/BepInEx-Remastered/issues)
-- [Browse releases](https://github.com/DreamyModding/BepInEx-Remastered/releases)
+- [Report an issue](https://github.com/DreamysHelper/BepInEx-Resmatered/issues)
+- [Browse releases](https://github.com/DreamysHelper/BepInEx-Resmatered/releases)
 - [Join the Discord](https://discord.gg/dreamymodding)
 
 When reporting a problem, include the game name, Unity version if known, scripting backend, relevant logs, and steps to reproduce it.
