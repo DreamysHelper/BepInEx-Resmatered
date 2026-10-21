@@ -11,25 +11,25 @@
 
   <p>
     <a href="https://github.com/DreamyModding/BepInEx-Remastered/releases">
-      <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/DreamyModding/BepInEx-Remastered/total?logo=github&label=downloads">
+      <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/DreamyModding/BepInEx-Resmastered/total?logo=github&label=downloads">
     </a>
     <a href="https://github.com/DreamyModding/BepInEx-Remastered/releases/latest">
-      <img alt="GitHub latest release" src="https://img.shields.io/github/v/release/DreamyModding/BepInEx-Remastered?logo=github">
+      <img alt="GitHub latest release" src="https://img.shields.io/github/v/release/DreamyModding/BepInEx-Resmastered?logo=github">
     </a>
     <a href="https://discord.gg/dreamymodding">
       <img alt="Join the DreamyModding Discord" src="https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white">
     </a>
     <a href="https://github.com/DreamyModding/BepInEx-Remastered/issues">
-      <img alt="GitHub issues" src="https://img.shields.io/github/issues/DreamyModding/BepInEx-Remastered?logo=github">
+      <img alt="GitHub issues" src="https://img.shields.io/github/issues/DreamyModding/BepInEx-Resmastered?logo=github">
     </a>
   </p>
 
   <p>
-    <a href="https://github.com/DreamyModding/BepInEx-Remastered/releases/latest"><strong>Download Latest Release</strong></a>
+    <a href="https://github.com/DreamyModding/BepInEx-Resmastered/releases/latest"><strong>Download Latest Release</strong></a>
     ·
     <a href="https://discord.gg/dreamymodding"><strong>Discord</strong></a>
     ·
-    <a href="https://github.com/DreamyModding/BepInEx-Remastered/issues"><strong>Report an Issue</strong></a>
+    <a href="https://github.com/DreamyModding/BepInEx-Resmastered/issues"><strong>Report an Issue</strong></a>
   </p>
 </div>
 
@@ -49,8 +49,8 @@ Support depends on the specific build, game, scripting backend, and platform. Ch
 
 ## Resources
 
-- [**Latest releases**](https://github.com/DreamyModding/BepInEx-Remastered/releases)
-- [**All releases**](https://github.com/DreamyModding/BepInEx-Remastered/releases)
+- [**Latest releases**](https://github.com/DreamyModding/BepInEx-Resmastered/releases)
+- [**All releases**](https://github.com/DreamyModding/BepInEx-Resmastered/releases)
 - [**Installation guide**](https://docs.bepinex.dev/articles/user_guide/installation/index.html)
 - [**User and developer guides**](https://docs.bepinex.dev/master/)
 - [**DreamyModding Discord server**](https://discord.gg/dreamymodding)
