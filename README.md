@@ -13,7 +13,7 @@
     <a href="https://github.com/DreamysHelper/BepInEx-Resmatered/releases">
       <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/DreamysHelper/BepInEx-Resmatered/total?logo=github&amp;label=downloads">
     </a>
-    <a href="https://github.com/DreamysHelper/BepInEx-Resmatered/releases#release-1.0.2">
+    <a href="https://github.com/DreamysHelper/BepInEx-Resmatered/latest">
       <img alt="GitHub latest release" src="https://img.shields.io/github/v/release/DreamysHelper/BepInEx-Resmatered?logo=github">
     </a>
     <a href="https://discord.gg/dreamymodding">
